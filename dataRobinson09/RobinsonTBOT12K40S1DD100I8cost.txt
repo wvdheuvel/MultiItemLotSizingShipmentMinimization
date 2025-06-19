@@ -1,0 +1,77 @@
+Runtimes:
+Runtimes dpamult for Q:
+1 0
+10 0
+20 0.001
+Runtime dpaunc: 0
+Runtimes MIP:
+Min: 0.004
+Max: 0.047
+Avg: 0.00994055
+
+Objective values for each no of shipment periods and method:
+1 6188.34 6188.34 6188.34 6188.34 6188.34 6188.34 
+2 2813.8 2813.8 2813.8 2813.8 2813.8 2813.8 
+3 2202.15 2202.15 2202.15 2202.15 2202.15 2202.15 
+4 1776.67 1776.67 1776.67 1776.67 1776.67 1776.67 
+5 1755.55 1755.55 1755.55 1755.55 1831.07 1755.55 
+6 1755.55 1755.55 1755.55 1755.55 1936.25 1755.55 
+
+Optimality gap (in %) statistics min/max/avg for each method: 
+Method 1: 0 0 0
+Method 2: 0 0 0
+Method 3: 0 0 0
+Method 4: 0 10.2931 2.43252
+Method 5: 0 0 0
+
+Objective of JRP found by using curve for each method
+Method 0: Obj 2103.29, setups 4
+Method 1: Obj 2103.29, setups 4
+Method 2: Obj 2103.29, setups 4
+Method 3: Obj 2103.29, setups 4
+Method 4: Obj 2103.29, setups 4
+Method 5: Obj 2103.29, setups 4
+
+Optimal solution for each no of shipment periods, item and period:
+Shipments 1:
+1 0 0 0 0 0 
+1 0 0 0 0 0 
+1 0 0 0 0 0 
+1 0 0 0 0 0 
+1 0 0 0 0 0 
+
+Shipments 2:
+1 0 0 1 0 0 
+1 0 0 1 0 0 
+1 0 0 1 0 0 
+1 0 0 1 0 0 
+1 0 0 1 0 0 
+
+Shipments 3:
+1 0 0 1 0 1 
+1 0 0 1 0 1 
+1 0 0 1 0 1 
+1 0 0 1 0 1 
+1 0 0 1 0 1 
+
+Shipments 4:
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+
+Shipments 5:
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 1 1 0 1 
+
+Shipments 6:
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 0 1 0 1 
+1 1 1 1 0 1 
+
